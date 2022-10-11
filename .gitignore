@@ -118,5 +118,5 @@ run/
 !gradle-wrapper.jar
 
 /server/
-!/server/start.bat
+!/server/start.sh
 
